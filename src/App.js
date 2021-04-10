@@ -37,7 +37,7 @@ function App() {
                 placeholder="Search"
               />
               <button className="bg-dark border border-dark ">
-                <FaSearch className="text-white mb-2 " />
+                <FaSearch className="text-white" />
               </button>
             </Col>
           </form>
@@ -54,7 +54,7 @@ function App() {
             <Col>
               <input type="text" name="q" id="google" placeholder="Search" />
               <button className="bg-dark border border-dark ">
-                <FaSearch className="text-white mb-2 " />
+                <FaSearch className="text-white" />
               </button>
             </Col>
           </form>
@@ -71,7 +71,7 @@ function App() {
             <Col>
               <input type="text" name="q" id="mdn" placeholder="Search" />
               <button className="bg-dark border border-dark ">
-                <FaSearch className="text-white mb-2 " />
+                <FaSearch className="text-white" />
               </button>
             </Col>
           </form>
