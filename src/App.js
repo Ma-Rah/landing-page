@@ -36,7 +36,7 @@ function App() {
                 id="youtube"
                 placeholder="Search"
               />
-              <button className="bg-dark border border-dark  ">
+              <button className="bg-dark border border-dark ">
                 <FaSearch className="text-white mb-1" />
               </button>
             </Col>
@@ -70,8 +70,8 @@ function App() {
             </Col>
             <Col>
               <input type="text" name="q" id="mdn" placeholder="Search" />
-              <button className="bg-dark border border-dark">
-                <FaSearch className="text-white mb-1 " />
+              <button className="bg-dark border border-dark ">
+                <FaSearch className="text-white mb-1" />
               </button>
             </Col>
           </form>
